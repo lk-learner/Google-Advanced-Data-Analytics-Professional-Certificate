@@ -73,7 +73,7 @@ Learners who complete the seven courses in this program will have the skills nee
 - Develop effective communication skills
 
 ---
-[Course-2 : Get Started with Python]()
+[Course-2 : Get Started with Python](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-2%20%3A%20Get%20Started%20with%20Python)
 ---
 
 <p align="center">
@@ -116,7 +116,7 @@ Learners who complete the seven courses in this program will have the skills nee
 - Import and use Python libraries such as NumPy and pandas
 
 ---
-[Course-3 : Go Beyond the Numbers:Translate Data into Insights]()
+[Course-3 : Go Beyond the Numbers:Translate Data into Insights](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-3%20%3A%20Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights)
 ---
 
 <p align="center">
@@ -155,7 +155,7 @@ Learners who complete the seven courses in this program will have the skills nee
 
 - Structure and organize data by manipulating date strings
 ---
-[Course-4 : Power of Statistics]()
+[Course-4 : Power of Statistics](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-4%20%3A%20The%20Power%20of%20Statistics)
 ---
 
 <p align="center">
@@ -193,7 +193,7 @@ Learners who complete the seven courses in this program will have the skills nee
 - Calculate sampling distributions
 
 ---
-[Course-5 : Regression Analysis: Simplify Complex Data Relationships]()
+[Course-5 : Regression Analysis: Simplify Complex Data Relationships](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-5%20%3A%20Regression%20Analysis%3A%20Simplify%20complex%20data%20relationships)
 ---
 
 <p align="center">
@@ -227,7 +227,7 @@ Learners who complete the seven courses in this program will have the skills nee
 - Construct different types of logistic regressions including binomial, multinomial, ordinal, and Poisson log-linear regression models
 
 ---
-[Course-6 : The Nuts and Bolts of Machine Learning]()
+[Course-6 : The Nuts and Bolts of Machine Learning](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-6%20%3A%20The%20Nuts%20and%20Bolts%20of%20Machine%20Learning)
 ---
 
 <p align="center">
@@ -274,3 +274,42 @@ Learners who complete the seven courses in this program will have the skills nee
 - Conduct hypothesis tests
   
 ---
+
+[Course-7 : Google Advanced Data Analytics Capstone](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-7%20%3A%20Google%20Advanced%20Data%20Analytics%20Capstone)
+---
+
+<p align="center">
+<img src="/Lakshmi Kadali Certificates/google logo.png" width=60% height=60%>
+
+---
+### About this Course
+
+This is the seventh and final course of the Google Advanced Data Analytics Certificate. In this course, you have the opportunity to complete an optional capstone project that includes key concepts from each of the six preceding courses. During this capstone project, you'll use your new skills and knowledge to develop data-driven insights for a specific business problem.
+
+Google employees who currently work in the field will guide you through this course by providing hands-on activities that simulate relevant tasks, sharing examples from their day-to-day work, and helping you enhance your data analytics skills to prepare for your career. 
+
+Learners who complete the seven courses in this program will have the skills needed to apply for data science and advanced data analytics jobs. This certificate assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate. 
+
+#### What you will learn : 
+
+- Examine data to identify patterns and trends 
+
+- Build models using machine learning techniques 
+
+- Create data visualizations 
+
+- Explore career resources
+
+- Create and/or update your resume
+  
+- Create and/or update your professional portfolio
+  
+- Develop a data frame
+  
+- Compose data visualizations
+  
+- Use statistics to analyze and interpret data
+  
+- Build, interpret, and evaluate regression models
+  
+- Utilize machine learning techniques in Python
