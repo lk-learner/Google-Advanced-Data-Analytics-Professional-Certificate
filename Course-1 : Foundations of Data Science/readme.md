@@ -4,3 +4,9 @@
 
 <p align="center">
 <img src="/Lakshmi Kadali Certificates/Coursera Google Advanced Data Analytics Professional Certificate Course-1.png" width=60% height=60%>
+
+---
+## About this Course
+
+
+#### What you will learn : 
