@@ -17,3 +17,11 @@ After seven courses, you’ll be prepared for jobs like senior data analyst, jun
 ¹Lightcast™ US Job Postings (Last 12 Months: 1/1/2022 – 12/31/2022)
 
 Based on program graduate survey, United States 2022
+
+#### Applied Learning Project
+
+This program includes over 200 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in advanced data analytics and data science. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to advanced data analytics tools and platforms and key technical skills required for an advanced role.
+
+Platforms and tools you will learn include: Jupyter Notebook, Python, Tableau
+
+In addition to expert training and hands-on projects, you'll complete a capstone project that you can share with potential employers to showcase your new skill set. Learn concrete skills that top employers are hiring for right now.
