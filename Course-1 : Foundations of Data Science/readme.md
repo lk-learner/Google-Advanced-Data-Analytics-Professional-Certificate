@@ -1,5 +1,5 @@
 
-# Course-1 : Foundations of Data Science <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Course-1 : Foundations of Data Science <img src="/Lakshmi Kadali Certificates/google logo.png" align="right" width="120" />
 ---
 
 <p align="center">
