@@ -26,6 +26,9 @@ Platforms and tools you will learn include: Jupyter Notebook, Python, Tableau
 
 In addition to expert training and hands-on projects, you'll complete a capstone project that you can share with potential employers to showcase your new skill set. Learn concrete skills that top employers are hiring for right now.
 
+<p align="center">
+<img src="/Lakshmi Kadali Certificates/google logo.png" width=80% height=80%>
+
 ---
 
 ### 📙 Course Structures
