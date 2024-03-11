@@ -29,7 +29,7 @@ In addition to expert training and hands-on projects, you'll complete a capstone
 ---
 
 
-[Course-1 : Foundations of Data Science]() 
+[Course-1 : Foundations of Data Science](https://github.com/lk-learner/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/Course-1%20%3A%20Foundations%20of%20Data%20Science) 
 ---
 
 <p align="center">
