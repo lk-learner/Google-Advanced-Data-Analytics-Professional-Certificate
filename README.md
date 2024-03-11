@@ -28,7 +28,7 @@ In addition to expert training and hands-on projects, you'll complete a capstone
 
 ---
 
-## 📙 Course Structures
+### 📙 Course Structures
 
 There are 7 Courses in this Professional Certificate Specialization are as follows:
 
