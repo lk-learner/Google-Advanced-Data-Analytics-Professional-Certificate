@@ -10,3 +10,12 @@
 
 
 #### What you will learn : 
+
+
+- Understand common careers and industries that use advanced data analytics
+
+- Investigate the impact data analysis can have on decision-making
+
+- Explain how data professionals preserve data privacy and ethics 
+
+- Develop a project plan considering roles and responsibilities of team members
