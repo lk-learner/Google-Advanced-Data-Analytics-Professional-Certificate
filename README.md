@@ -126,7 +126,7 @@ Learners who complete the seven courses in this program will have the skills nee
 ---
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/google logo.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Coursera Google Advanced Data Analytics Professional Certificate Course-3.png" width=60% height=60%>
 
 ---
 ### About this Course
