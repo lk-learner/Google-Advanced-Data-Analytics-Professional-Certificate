@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/google logo.png" width=80% height=80%>
+<img src="/Lakshmi Kadali Certificates/Coursera Google Advanced Data Analytics Professional Certificate.png" width=80% height=80%>
 
 ### 📍 About Professional Certificate
 
@@ -285,7 +285,7 @@ Learners who complete the seven courses in this program will have the skills nee
 ---
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/google logo.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Coursera Google Advanced Data Analytics Professional Certificate Course-7.png" width=60% height=60%>
 
 ---
 ### About this Course
